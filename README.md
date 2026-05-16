@@ -56,11 +56,6 @@
 
 </p>
 
-<p align="center">
-  <a href="https://github.com/ALVMUNOZR1">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ALVMUNOZR1&langs_count=8&layout=compact&theme=dark&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
 
 ## 💬 Quote
 > zip zip zip zip zip -👽
