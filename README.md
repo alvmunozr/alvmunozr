@@ -1,6 +1,6 @@
 <h1 align="center">Hi, <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm Alvaru</h1>
 
-<h3 align="center"> Mobile Resolution to see the full ACSII </h3>
+<h3 align="center"> //////////////////////////////////////////////// </h3>
 
 <h3 align="center">⢿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠛⠋⣁⣀⡠⡀⠄⠉⠙⠛⠿⢿⣿⣿⡿⠙⠁⠄⠄⣠ ⠄⠈⠛⠛⡿⠛⠛⠉⠄⠄⣠⣾⣿⣿⣿⣿⣿⣧⣄⢀⡀⣀⠈⠥⣤⢀⠄⠄⣼⣿ ⣄⠄⠄⠄⣇⣀⣤⣤⣴⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣾⣿⣿⣅⠄⢈⡬⢠⣾⣿⠟ ⣿⣷⡄⠰⣾⣿⣿⣿⣿⣿⣿⣿⣟⣿⣿⣿⣿⡿⠿⠿⠿⣿⣿⣧⡘⠃⠘⣿⣟⠄ ⣉⠻⠃⠈⠟⠉⠁⣤⡙⢻⣿⣿⣿⣷⣿⣿⡟⠁⣴⠂⠄⠄⠈⣿⣷⡄⠄⠈⢓⣛ ⣿⣤⣤⠸⡆⠄⠄⠈⣳⣾⣿⠿⠿⠿⢿⣿⣷⣤⣯⠄⠄⠄⢀⣿⣿⣿⠄⠐⣿⣿ ⣿⣿⣿⡇⠨⣀⣀⣴⣿⣿⠁⠄⠄⠄⠄⣿⣿⣿⣿⣷⣦⣶⣾⣿⣿⣿⣴⡆⢹⣿ ⣿⣿⣿⣷⠄⠉⠛⢿⣿⣿⡀⠄⠄⠄⣷⣿⣿⣿⣿⡿⠇⠄⣰⣿⣿⣿⠚⢣⣿⣿ ⠉⠻⢿⣿⠄⣀⣤⡄⠙⠛⠛⠒⠄⠒⠙⠛⠛⠛⠉⢀⣴⣾⣿⣿⣿⠇⠄⢀⠙⢿ ⠄⣶⡶⠄⠄⢻⣿⣷⣄⣶⣶⣶⣤⣤⡶⣶⠾⣿⣶⣿⣿⣿⣿⣿⡃⣀⣴⣿⡷⢸</h3>
 
